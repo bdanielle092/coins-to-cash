@@ -4,4 +4,5 @@ const piggyBank = {
     dimes: 123,
     quarters: 321
 }
-const dollarAmount = 111.99;
+const dollarAmount = piggyBank.pennies + piggyBank.nickels + piggyBank.dimes + piggyBank.quarters;
+console.log(dollarAmount)

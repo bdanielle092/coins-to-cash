@@ -1,3 +1,3 @@
-const dollarAmount = 111.19
-const piggyBank = {}
-console.log(piggyBank)
+// const dollarAmount = 111.19
+// const piggyBank = {}
+// console.log(piggyBank)
